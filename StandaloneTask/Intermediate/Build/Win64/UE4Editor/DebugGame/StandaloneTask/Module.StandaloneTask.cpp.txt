@@ -1,0 +1,49 @@
+D:\1.Work\MyUeWork\PluginAndSlate\Plugins\StandaloneTask\Intermediate\Build\Win64\UE4Editor\DebugGame\StandaloneTask\Definitions.StandaloneTask.h
+D:/1.Work/MyUeWork/PluginAndSlate/Plugins/StandaloneTask/Source/StandaloneTask/Private/InputButton.cpp
+D:\1.Work\MyUeWork\PluginAndSlate\Plugins\StandaloneTask\Source\StandaloneTask\Public\InputButton.h
+D:/1.Work/MyUeWork/PluginAndSlate/Plugins/StandaloneTask/Source/StandaloneTask/Private/SlateMain.cpp
+D:\1.Work\MyUeWork\PluginAndSlate\Plugins\StandaloneTask\Source\StandaloneTask\Public\SlateMain.h
+D:/1.Work/MyUeWork/PluginAndSlate/Plugins/StandaloneTask/Source/StandaloneTask/Private/StandaloneTask.cpp
+D:\1.Work\MyUeWork\PluginAndSlate\Plugins\StandaloneTask\Source\StandaloneTask\Public\StandaloneTask.h
+D:\1.Work\MyUeWork\PluginAndSlate\Plugins\StandaloneTask\Source\StandaloneTask\Public\StandaloneTaskStyle.h
+D:\2.Games\Epic Games\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyle.h
+D:\2.Games\Epic Games\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
+D:\2.Games\Epic Games\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBrush.h
+D:\2.Games\Epic Games\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
+D:\2.Games\Epic Games\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h
+D:\1.Work\MyUeWork\PluginAndSlate\Plugins\StandaloneTask\Source\StandaloneTask\Public\StandaloneTaskCommands.h
+D:\2.Games\Epic Games\UE_4.26\Engine\Source\Editor\LevelEditor\Public\LevelEditor.h
+D:\2.Games\Epic Games\UE_4.26\Engine\Source\Editor\LevelEditor\Public\ILevelEditor.h
+D:\2.Games\Epic Games\UE_4.26\Engine\Source\Editor\LevelEditor\Public\ViewportTypeDefinition.h
+D:\2.Games\Epic Games\UE_4.26\Engine\Source\Developer\ToolMenus\Public\ToolMenus.h
+D:\2.Games\Epic Games\UE_4.26\Engine\Source\Developer\ToolMenus\Public\IToolMenusModule.h
+D:\2.Games\Epic Games\UE_4.26\Engine\Source\Developer\ToolMenus\Public\ToolMenu.h
+D:\2.Games\Epic Games\UE_4.26\Engine\Source\Developer\ToolMenus\Public\ToolMenuOwner.h
+D:\2.Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuOwner.generated.h
+D:\2.Games\Epic Games\UE_4.26\Engine\Source\Developer\ToolMenus\Public\ToolMenuDelegates.h
+D:\2.Games\Epic Games\UE_4.26\Engine\Source\Developer\ToolMenus\Public\ToolMenuMisc.h
+D:\2.Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuMisc.generated.h
+D:\2.Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuDelegates.generated.h
+D:\2.Games\Epic Games\UE_4.26\Engine\Source\Developer\ToolMenus\Public\ToolMenuSection.h
+D:\2.Games\Epic Games\UE_4.26\Engine\Source\Developer\ToolMenus\Public\ToolMenuEntry.h
+D:\2.Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuEntry.generated.h
+D:\2.Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuSection.generated.h
+D:\2.Games\Epic Games\UE_4.26\Engine\Source\Runtime\Slate\Public\Framework/MultiBox/ToolMenuBase.h
+D:\2.Games\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/BlacklistNames.h
+D:\2.Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\ToolMenuBase.generated.h
+D:\2.Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenu.generated.h
+D:\2.Games\Epic Games\UE_4.26\Engine\Source\Developer\ToolMenus\Public\ToolMenuEntryScript.h
+D:\2.Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuEntryScript.generated.h
+D:\2.Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenus.generated.h
+D:/1.Work/MyUeWork/PluginAndSlate/Plugins/StandaloneTask/Source/StandaloneTask/Private/StandaloneTaskCommands.cpp
+D:/1.Work/MyUeWork/PluginAndSlate/Plugins/StandaloneTask/Source/StandaloneTask/Private/StandaloneTaskStyle.cpp
+D:\2.Games\Epic Games\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyleRegistry.h
+D:\2.Games\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\Slate/SlateGameResources.h
+D:\2.Games\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+D:\2.Games\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+D:\2.Games\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
+D:\2.Games\Epic Games\UE_4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+D:\2.Games\Epic Games\UE_4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+D:\2.Games\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
+D:\2.Games\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
+D:\2.Games\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h

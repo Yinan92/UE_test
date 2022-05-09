@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-NewModule.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\1.Work\MyUeWork\PluginAndSlate\Intermediate\Build\Win64\PluginAndSlateEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\1.Work\MyUeWork\PluginAndSlate\Plugins\testP\Intermediate\Build\Win64\UE4Editor\Development\NewModule\NewModule.cpp.obj"
+"D:\1.Work\MyUeWork\PluginAndSlate\Plugins\testP\Intermediate\Build\Win64\UE4Editor\Development\NewModule\Default.rc2.res"
+/OUT:"D:\1.Work\MyUeWork\PluginAndSlate\Plugins\testP\Intermediate\Build\Win64\UE4Editor\Development\NewModule\UE4Editor-NewModule.lib"
+/INCLUDE:IMPLEMENT_MODULE_NewModule

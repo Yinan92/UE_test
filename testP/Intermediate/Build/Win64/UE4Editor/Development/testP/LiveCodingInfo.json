@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.testP.cpp.obj": [
+			"DllTest.cpp.obj",
+			"testP.cpp.obj"
+		],
+		"Module.testP.gen.cpp.obj": [
+			"DllTest.gen.cpp.obj",
+			"testP.init.gen.cpp.obj"
+		]
+	}
+}

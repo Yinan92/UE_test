@@ -1,0 +1,2 @@
+D:\1.Work\MyUeWork\PluginAndSlate\Plugins\testP\Intermediate\Build\Win64\UE4Editor\Development\NewModule\Definitions.NewModule.h
+D:\1.Work\MyUeWork\PluginAndSlate\Plugins\testP\Source\NewModule\Public\NewModule.h

@@ -1,0 +1,12 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.StandaloneTask.cpp.obj": [
+			"InputButton.cpp.obj",
+			"SlateMain.cpp.obj",
+			"StandaloneTask.cpp.obj",
+			"StandaloneTaskCommands.cpp.obj",
+			"StandaloneTaskStyle.cpp.obj"
+		]
+	}
+}

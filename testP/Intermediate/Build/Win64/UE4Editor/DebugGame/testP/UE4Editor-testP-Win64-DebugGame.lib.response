@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-testP-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\1.Work\MyUeWork\PluginAndSlate\Intermediate\Build\Win64\PluginAndSlateEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"D:\1.Work\MyUeWork\PluginAndSlate\Plugins\testP\Intermediate\Build\Win64\UE4Editor\DebugGame\testP\Module.testP.cpp.obj"
+"D:\1.Work\MyUeWork\PluginAndSlate\Plugins\testP\Intermediate\Build\Win64\UE4Editor\DebugGame\testP\Module.testP.gen.cpp.obj"
+"D:\1.Work\MyUeWork\PluginAndSlate\Plugins\testP\Intermediate\Build\Win64\UE4Editor\DebugGame\testP\Default.rc2.res"
+/OUT:"D:\1.Work\MyUeWork\PluginAndSlate\Plugins\testP\Intermediate\Build\Win64\UE4Editor\DebugGame\testP\UE4Editor-testP-Win64-DebugGame.lib"
+/INCLUDE:IMPLEMENT_MODULE_testP
